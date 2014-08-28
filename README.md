@@ -2,7 +2,7 @@ ng-tasty sample webpack app
 ---------------------------
 
 This is just some dumb controller which showcases the usage of [ngTasty][1]
-using the module bundler Webpack[2].
+using the module bundler [Webpack][2].
 
 Installation
 ------------
